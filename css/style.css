@@ -102,3 +102,9 @@ body {
     font-size: 0.8rem;
     letter-spacing: 1px;
 }
+
+
+.bulls{
+    position:relative;
+    left:-750px;
+}
